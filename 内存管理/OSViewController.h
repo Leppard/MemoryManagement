@@ -16,6 +16,8 @@
 @property (weak, nonatomic) IBOutlet UILabel *block2nd;
 @property (weak, nonatomic) IBOutlet UILabel *block3rd;
 @property (weak, nonatomic) IBOutlet UILabel *block4th;
+@property (weak, nonatomic) IBOutlet UILabel *lackOfPageCount;
+@property (weak, nonatomic) IBOutlet UILabel *lackOfPageRate;
 - (IBAction)nextOrder:(id)sender;
 - (IBAction)beginOrder:(id)sender;
 

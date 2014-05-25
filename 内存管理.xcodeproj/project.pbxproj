@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8C931821192E1F8D00F4BDF5 /* MemoryBlock.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C931820192E1F8D00F4BDF5 /* MemoryBlock.m */; };
+		8C9318241930EC3D00F4BDF5 /* InfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C9318231930EC3D00F4BDF5 /* InfoViewController.m */; };
 		8CEF474B192B831C009BD4F6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CEF474A192B831C009BD4F6 /* Foundation.framework */; };
 		8CEF474D192B831C009BD4F6 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CEF474C192B831C009BD4F6 /* CoreGraphics.framework */; };
 		8CEF474F192B831C009BD4F6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CEF474E192B831C009BD4F6 /* UIKit.framework */; };
@@ -38,6 +39,8 @@
 /* Begin PBXFileReference section */
 		8C93181F192E1F8D00F4BDF5 /* MemoryBlock.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MemoryBlock.h; sourceTree = "<group>"; };
 		8C931820192E1F8D00F4BDF5 /* MemoryBlock.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MemoryBlock.m; sourceTree = "<group>"; };
+		8C9318221930EC3D00F4BDF5 /* InfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InfoViewController.h; sourceTree = "<group>"; };
+		8C9318231930EC3D00F4BDF5 /* InfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InfoViewController.m; sourceTree = "<group>"; };
 		8CEF4747192B831C009BD4F6 /* 内存管理.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "内存管理.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CEF474A192B831C009BD4F6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		8CEF474C192B831C009BD4F6 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -121,6 +124,8 @@
 				8CEF4759192B831D009BD4F6 /* OSAppDelegate.h */,
 				8CEF475A192B831D009BD4F6 /* OSAppDelegate.m */,
 				8CEF475C192B831D009BD4F6 /* Main.storyboard */,
+				8C9318221930EC3D00F4BDF5 /* InfoViewController.h */,
+				8C9318231930EC3D00F4BDF5 /* InfoViewController.m */,
 				8C93181F192E1F8D00F4BDF5 /* MemoryBlock.h */,
 				8C931820192E1F8D00F4BDF5 /* MemoryBlock.m */,
 				8CEF477F192B89BA009BD4F6 /* NewOrders.h */,
@@ -262,6 +267,7 @@
 			files = (
 				8CEF475B192B831D009BD4F6 /* OSAppDelegate.m in Sources */,
 				8C931821192E1F8D00F4BDF5 /* MemoryBlock.m in Sources */,
+				8C9318241930EC3D00F4BDF5 /* InfoViewController.m in Sources */,
 				8CEF4757192B831C009BD4F6 /* main.m in Sources */,
 				8CEF4761192B831D009BD4F6 /* OSViewController.m in Sources */,
 				8CEF4781192B89BA009BD4F6 /* NewOrders.m in Sources */,

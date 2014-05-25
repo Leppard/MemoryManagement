@@ -12,14 +12,19 @@
 @interface OSViewController ()
 {
     NewOrders* neworders;
+    
     NSInteger countNumber;
     NSInteger currentPosition;
+    
     MemoryBlock* block_1;
     MemoryBlock* block_2;
     MemoryBlock* block_3;
     MemoryBlock* block_4;
+    
     NSInteger flag;
-
+    
+    float lackcount;
+    float lackrate;
 }
 @end
 
@@ -38,6 +43,12 @@
     block_2 = [[MemoryBlock alloc]init];
     block_3 = [[MemoryBlock alloc]init];
     block_4 = [[MemoryBlock alloc]init];
+    
+    block_1.the_page = 32;
+    block_2.the_page = 32;
+    block_3.the_page = 32;
+    block_4.the_page = 32;
+    // 初始化内存中的页为32，既在页号可变范围之外，页不会因为初始值是0与checkIfPageExist冲突
 }
 
 - (void)didReceiveMemoryWarning
@@ -52,7 +63,14 @@
 
 if (countNumber < 320)
 {
-        [self showOrder];
+    self.block1st.backgroundColor = nil;
+    self.block2nd.backgroundColor = nil;
+    self.block3rd.backgroundColor = nil;
+    self.block4th.backgroundColor = nil;
+    
+    [self showOrder];
+    
+    countNumber++;
         
 /////////////////////////////////
  bool page_exist = [self checkIfPageExist];
@@ -64,6 +82,15 @@ if (countNumber < 320)
         
     if (block_2.flag == 0)
     {
+        lackcount++;
+        lackrate = lackcount/countNumber*100;
+        NSNumber* lcount = [[NSNumber alloc]initWithFloat:lackcount];
+        NSString* lstr = [[NSString alloc]initWithFormat:@"%@",lcount];
+        NSNumber* count = [[NSNumber alloc]initWithFloat:lackrate];
+        NSString* cstr = [[NSString alloc]initWithFormat:@"%@%%",count];
+        self.lackOfPageCount.text = lstr;
+        self.lackOfPageRate.text = cstr;
+        
         block_2.the_page = [block_2 transformOrderToPage:currentPosition];
         NSNumber* num = [[NSNumber alloc]initWithInteger:block_2.the_page];
         NSString* str = [[NSString alloc]initWithFormat:@"%@",num];
@@ -73,6 +100,15 @@ if (countNumber < 320)
     }
     else if (block_3.flag == 0)
     {
+        lackcount++;
+        lackrate = lackcount/countNumber*100;
+        NSNumber* lcount = [[NSNumber alloc]initWithFloat:lackcount];
+        NSString* lstr = [[NSString alloc]initWithFormat:@"%@",lcount];
+        NSNumber* count = [[NSNumber alloc]initWithFloat:lackrate];
+        NSString* cstr = [[NSString alloc]initWithFormat:@"%@%%",count];
+        self.lackOfPageCount.text = lstr;
+        self.lackOfPageRate.text = cstr;
+        
         block_3.the_page = [block_3 transformOrderToPage:currentPosition];
         NSNumber* num = [[NSNumber alloc]initWithInteger:block_3.the_page];
         NSString* str = [[NSString alloc]initWithFormat:@"%@",num];
@@ -82,6 +118,15 @@ if (countNumber < 320)
     }
     else if (block_4.flag == 0)
     {
+        lackcount++;
+        lackrate = lackcount/countNumber*100;
+        NSNumber* lcount = [[NSNumber alloc]initWithFloat:lackcount];
+        NSString* lstr = [[NSString alloc]initWithFormat:@"%@",lcount];
+        NSNumber* count = [[NSNumber alloc]initWithFloat:lackrate];
+        NSString* cstr = [[NSString alloc]initWithFormat:@"%@%%",count];
+        self.lackOfPageCount.text = lstr;
+        self.lackOfPageRate.text = cstr;
+        
         block_4.the_page = [block_4 transformOrderToPage:currentPosition];
         NSNumber* num = [[NSNumber alloc]initWithInteger:block_4.the_page];
         NSString* str = [[NSString alloc]initWithFormat:@"%@",num];
@@ -93,13 +138,19 @@ if (countNumber < 320)
 ///////////////////////////////////
     else if (!page_exist)
     {
-            NSInteger currentpage = currentPosition/10;
-            [self swapPage:currentpage];
+        lackcount++;
+        lackrate = lackcount/countNumber*100;
+        NSNumber* lcount = [[NSNumber alloc]initWithFloat:lackcount];
+        NSString* lstr = [[NSString alloc]initWithFormat:@"%@",lcount];
+        NSNumber* count = [[NSNumber alloc]initWithFloat:lackrate];
+        NSString* cstr = [[NSString alloc]initWithFormat:@"%@%%",count];
+        self.lackOfPageCount.text = lstr;
+        self.lackOfPageRate.text = cstr;
+        NSInteger currentpage = currentPosition/10;
+        [self swapPage:currentpage];
     }
 }
 /////////////////////////////////////
-        
-    countNumber ++;
     
     block_1.fifo_count ++;
     block_2.fifo_count ++;
@@ -112,6 +163,16 @@ if (countNumber < 320)
 {
     if (flag == 0)
     {
+        lackcount++;
+        countNumber++;
+        lackrate = 100;
+        NSNumber* lcount = [[NSNumber alloc]initWithFloat:lackcount];
+        NSString* lstr = [[NSString alloc]initWithFormat:@"%@",lcount];
+        NSNumber* count = [[NSNumber alloc]initWithFloat:lackrate];
+        NSString* cstr = [[NSString alloc]initWithFormat:@"%@%%",count];
+        self.lackOfPageCount.text = lstr;
+        self.lackOfPageRate.text = cstr;
+        
         currentPosition = 320;
         currentPosition = arc4random()%currentPosition;
         [self showCurrentOrder:currentPosition];
@@ -139,22 +200,22 @@ if (countNumber < 320)
 
 -(void) showOrder
 {
-    if (countNumber%4 == 0)
+    if ((countNumber-1)%4 == 0)
     {
         currentPosition = arc4random()%currentPosition;
         [self showCurrentOrder:currentPosition];
     }
-    else if (countNumber%4 == 1)
+    else if ((countNumber-1)%4 == 1)
     {
         currentPosition++;
         [self showCurrentOrder:currentPosition];
     }
-    else if (countNumber%4 == 2)
+    else if ((countNumber-1)%4 == 2)
     {
         currentPosition = arc4random()%(320-currentPosition)+currentPosition;
         [self showCurrentOrder:currentPosition];
     }
-    else if (countNumber%4 == 3)
+    else if ((countNumber-1)%4 == 3)
     {
         currentPosition++;
         [self showCurrentOrder:currentPosition];
@@ -167,36 +228,37 @@ if (countNumber < 320)
     
     NSInteger currentpage = currentPosition/10;
     
+    BOOL temp = NO;
     if (currentpage == block_1.the_page)
     {
-        NSNumber* num = [[NSNumber alloc]initWithInteger:currentpage];
-        NSString* str = [[NSString alloc]initWithFormat:@"第%@页已经在内存块1内",num];
-        [[[UIAlertView alloc]initWithTitle:@"Bingo" message:str delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil,nil] show];
-        return YES;
+        self.block1st.backgroundColor = [UIColor greenColor];
+        temp = YES;
     }
     else if(currentpage == block_2.the_page)
     {
-        NSNumber* num = [[NSNumber alloc]initWithInteger:currentpage];
-        NSString* str = [[NSString alloc]initWithFormat:@"第%@页已经在内存块2内",num];
-        [[[UIAlertView alloc]initWithTitle:@"Bingo" message:str delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil,nil] show];
-        return YES;
+        self.block2nd.backgroundColor = [UIColor greenColor];
+        temp = YES;
     }
     else if (currentpage == block_3.the_page)
     {
-        NSNumber* num = [[NSNumber alloc]initWithInteger:currentpage];
-        NSString* str = [[NSString alloc]initWithFormat:@"第%@页已经在内存块3内",num];
-        [[[UIAlertView alloc]initWithTitle:@"Bingo" message:str delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil,nil] show];
-        return YES;
+        self.block3rd.backgroundColor = [UIColor greenColor];
+        temp = YES;
     }
     else if (currentpage == block_4.the_page)
     {
-        NSNumber* num = [[NSNumber alloc]initWithInteger:currentpage];
-        NSString* str = [[NSString alloc]initWithFormat:@"第%@页已经在内存块4内",num];
-        [[[UIAlertView alloc]initWithTitle:@"Bingo" message:str delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil,nil] show];
-        return YES;
+        self.block4th.backgroundColor = [UIColor greenColor];
+        temp = YES;
     }
-    return NO;
     
+    lackrate = lackcount/countNumber*100;
+    NSNumber* lcount = [[NSNumber alloc]initWithFloat:lackcount];
+    NSString* lstr = [[NSString alloc]initWithFormat:@"%@",lcount];
+    NSNumber* count = [[NSNumber alloc]initWithFloat:lackrate];
+    NSString* cstr = [[NSString alloc]initWithFormat:@"%@%%",count];
+    self.lackOfPageCount.text = lstr;
+    self.lackOfPageRate.text = cstr;
+    
+    return temp;
 }
 
 -(void)swapPage:(NSInteger)currentpage
@@ -209,6 +271,9 @@ if (countNumber < 320)
         NSNumber* num = [[NSNumber alloc]initWithInteger:block_1.the_page];
         NSString* str = [[NSString alloc]initWithFormat:@"%@",num];
         self.block1st.text = str;
+
+        NSString* str1 = [[NSString alloc]initWithFormat:@"将第%@页调入内存块1中",num];
+        [[[UIAlertView alloc]initWithTitle:@"发生缺页！" message:str1 delegate:nil cancelButtonTitle:@"知道了" otherButtonTitles:nil,nil] show];
     }
     if (maxblock == 2)
     {
@@ -217,6 +282,9 @@ if (countNumber < 320)
         NSNumber* num = [[NSNumber alloc]initWithInteger:block_2.the_page];
         NSString* str = [[NSString alloc]initWithFormat:@"%@",num];
         self.block2nd.text = str;
+        
+        NSString* str1 = [[NSString alloc]initWithFormat:@"将第%@页调入内存块2中",num];
+        [[[UIAlertView alloc]initWithTitle:@"发生缺页！" message:str1 delegate:nil cancelButtonTitle:@"知道了" otherButtonTitles:nil,nil] show];
     }
     if (maxblock == 3)
     {
@@ -225,6 +293,9 @@ if (countNumber < 320)
         NSNumber* num = [[NSNumber alloc]initWithInteger:block_3.the_page];
         NSString* str = [[NSString alloc]initWithFormat:@"%@",num];
         self.block3rd.text = str;
+        
+        NSString* str1 = [[NSString alloc]initWithFormat:@"将第%@页调入内存块3中",num];
+        [[[UIAlertView alloc]initWithTitle:@"发生缺页！" message:str1 delegate:nil cancelButtonTitle:@"知道了" otherButtonTitles:nil,nil] show];
     }
     if (maxblock == 4)
     {
@@ -233,6 +304,9 @@ if (countNumber < 320)
         NSNumber* num = [[NSNumber alloc]initWithInteger:block_4.the_page];
         NSString* str = [[NSString alloc]initWithFormat:@"%@",num];
         self.block4th.text = str;
+        
+        NSString* str1 = [[NSString alloc]initWithFormat:@"将第%@页调入内存块4中",num];
+        [[[UIAlertView alloc]initWithTitle:@"发生缺页！" message:str1 delegate:nil cancelButtonTitle:@"知道了" otherButtonTitles:nil,nil] show];
     }
     
 }
