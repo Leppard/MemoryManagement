@@ -73,12 +73,12 @@ if (countNumber < 320)
     countNumber++;
         
 /////////////////////////////////
- bool page_exist = [self checkIfPageExist];
-  
+ 
+    bool page_exist = [self checkIfPageExist];
+ 
+/////////////////////////////////
     if (!page_exist)
 {
-
-/////////////////////////////////
         
     if (block_2.flag == 0)
     {
