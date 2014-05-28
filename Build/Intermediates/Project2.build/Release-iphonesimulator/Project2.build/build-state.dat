@@ -1,0 +1,836 @@
+TProject2
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-aydtxnwuyknzrsfiensnaknzkpqu/Project2-Prefix.pch.pch Project2/Project2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-dppoegjbwzecqybprbrczkswqnhz/Project2-Prefix.pch.pch Project2/Project2-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/WHViewController.o /Users/lizhenliang/Desktop/ios/Project2/Project2/WHViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/main.o /Users/lizhenliang/Desktop/ios/Project2/Project2/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/WHAppDelegate.o /Users/lizhenliang/Desktop/ios/Project2/Project2/WHAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/ListDetailViewController.o /Users/lizhenliang/Desktop/ios/Project2/Project2/ListDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/AllCheckListsViewController.o /Users/lizhenliang/Desktop/ios/Project2/Project2/AllCheckListsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/ItemDetailViewController.o /Users/lizhenliang/Desktop/ios/Project2/Project2/ItemDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/CheckItem.o /Users/lizhenliang/Desktop/ios/Project2/CheckItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/Checklist.o /Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/WHViewController.o /Users/lizhenliang/Desktop/ios/Project2/Project2/WHViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/main.o /Users/lizhenliang/Desktop/ios/Project2/Project2/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/WHAppDelegate.o /Users/lizhenliang/Desktop/ios/Project2/Project2/WHAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/ListDetailViewController.o /Users/lizhenliang/Desktop/ios/Project2/Project2/ListDetailViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/AllCheckListsViewController.o /Users/lizhenliang/Desktop/ios/Project2/Project2/AllCheckListsViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/ItemDetailViewController.o /Users/lizhenliang/Desktop/ios/Project2/Project2/ItemDetailViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/CheckItem.o /Users/lizhenliang/Desktop/ios/Project2/CheckItem.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/Checklist.o /Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/Project2 normal i386
+cLd /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/Project2 normal x86_64
+cCreateUniversalBinary /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Project2 normal i386\ x86_64
+cCopyStringsFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/en.lproj/InfoPlist.strings Project2/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/lizhenliang/Desktop/ios/Project2/Project2/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app /Users/lizhenliang/Desktop/ios/Project2/Project2/Images.xcassets
+cProcessInfoPlistFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Info.plist /Users/lizhenliang/Desktop/ios/Project2/Project2/Project2-Info.plist
+cGenerateDSYMFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app.dSYM /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Project2
+cTouch /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000535A73AA00000000000003B4
+t1398436778
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000535A73B0000000000000019E
+t1398436784
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000535A73B20000000000446820
+t1398436786
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000535A73B4000000000088D8C0
+t1398436788
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000535A73B80000000001F1DE10
+t1398436792
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000535A73D80000000000000ADC
+t1398436824
+s2780
+
+N/Users/lizhenliang/Desktop/ios/Project2/CheckItem.m
+c00000000538213ED00000000000002A0
+t1401033709
+s672
+
+N/Users/lizhenliang/Desktop/ios/Project2/Project2/AllCheckListsViewController.m
+c00000000538547C30000000000001AFE
+t1401243587
+s6910
+
+N/Users/lizhenliang/Desktop/ios/Project2/Project2/Base.lproj/Main.storyboard
+c0000000053854A7F000000000000514F
+t1401244287
+s20815
+
+N/Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.m
+c00000000538345B600000000000000BA
+t1401111990
+s186
+
+N/Users/lizhenliang/Desktop/ios/Project2/Project2/Images.xcassets
+c00000000536C91B80000000000000088
+t1399624120
+s136
+
+N/Users/lizhenliang/Desktop/ios/Project2/Project2/ItemDetailViewController.m
+c0000000053849E490000000000000700
+t1401200201
+s1792
+
+N/Users/lizhenliang/Desktop/ios/Project2/Project2/ListDetailViewController.m
+c000000005385498A000000000000076C
+t1401244042
+s1900
+
+N/Users/lizhenliang/Desktop/ios/Project2/Project2/Project2-Info.plist
+c00000000536C91C00000000000000455
+t1399624128
+s1109
+
+N/Users/lizhenliang/Desktop/ios/Project2/Project2/Project2-Prefix.pch
+c00000000536C91B80000000000000158
+t1399624120
+s344
+
+N/Users/lizhenliang/Desktop/ios/Project2/Project2/WHAppDelegate.m
+c00000000536DEB6E00000000000007E3
+t1399712622
+s2019
+
+N/Users/lizhenliang/Desktop/ios/Project2/Project2/WHViewController.m
+c0000000053844D960000000000001952
+t1401179542
+s6482
+
+N/Users/lizhenliang/Desktop/ios/Project2/Project2/en.lproj/InfoPlist.strings
+c00000000536C91B8000000000000002D
+t1399624120
+s45
+
+N/Users/lizhenliang/Desktop/ios/Project2/Project2/main.m
+c000000005384B559000000000000015B
+t1401206105
+s347
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-aydtxnwuyknzrsfiensnaknzkpqu/Project2-Prefix.pch.pch
+t1401244288
+s117080
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-dppoegjbwzecqybprbrczkswqnhz/Project2-Prefix.pch.pch
+t1401244288
+s117836
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/AllCheckListsViewController.o
+t1401244288
+s66932
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/CheckItem.o
+t1401244288
+s11400
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/Checklist.o
+t1401244288
+s6312
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/ItemDetailViewController.o
+t1401244288
+s59732
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/ListDetailViewController.o
+t1401244288
+s60308
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/Project2
+t1401244289
+s54792
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/Project2.LinkFileList
+c0000000053854A7F00000000000004E6
+t1401244287
+s1254
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/WHAppDelegate.o
+t1401244288
+s61696
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/WHViewController.o
+t1401244288
+s75208
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/main.o
+t1401244288
+s3532
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/AllCheckListsViewController.o
+t1401244288
+s74420
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/CheckItem.o
+t1401244288
+s13748
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/Checklist.o
+t1401244288
+s7220
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/ItemDetailViewController.o
+t1401244288
+s66516
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/ListDetailViewController.o
+t1401244288
+s67332
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/Project2
+t1401244289
+s69584
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/Project2.LinkFileList
+c0000000053854A7F00000000000004F6
+t1401244287
+s1270
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/WHAppDelegate.o
+t1401244288
+s68308
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/WHViewController.o
+t1401244288
+s83968
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/main.o
+t1401244288
+s3984
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/assetcatalog_dependencies.txt
+t1401244289
+s399
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/assetcatalog_generated_info.plist
+t1401244289
+s525
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app
+t1401244289
+s306
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app.dSYM
+t2
+s0
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Base.lproj/Main.storyboardc
+t1401244289
+s374
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Info.plist
+t1401244289
+s928
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/PkgInfo
+t1401244289
+s8
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Project2
+t1401244289
+s131024
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/en.lproj/InfoPlist.strings
+t1401244289
+s42
+
+CBuild AST from /Users/lizhenliang/Desktop/ios/Project2/CheckItem.m
+r0
+
+CBuild AST from /Users/lizhenliang/Desktop/ios/Project2/Project2/AllCheckListsViewController.m
+r0
+
+CBuild AST from /Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.m
+r0
+
+CBuild AST from /Users/lizhenliang/Desktop/ios/Project2/Project2/ItemDetailViewController.m
+r0
+
+CBuild AST from /Users/lizhenliang/Desktop/ios/Project2/Project2/ListDetailViewController.m
+r0
+
+CBuild AST from /Users/lizhenliang/Desktop/ios/Project2/Project2/WHAppDelegate.m
+r0
+
+CBuild AST from /Users/lizhenliang/Desktop/ios/Project2/Project2/WHViewController.m
+r0
+
+CBuild AST from /Users/lizhenliang/Desktop/ios/Project2/Project2/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies753b5bff8135b941^d93f6fff8135b941^---0#1#1#--18"Check dependencies36"6D25B119-CD87-4D6C-836D-B2B487FEFB1D-
+
+CCompileAssetCatalog /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app /Users/lizhenliang/Desktop/ios/Project2/Project2/Images.xcassets
+s422937089.025519
+e422937089.727523
+r1
+xCompileAssetCatalog
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app
+x/Users/lizhenliang/Desktop/ios/Project2/Project2/Images.xcassets
+o2014-05-28 10:31:29.652 IBCocoaTouchImageCatalogTool[7503:303] CFPreferences: user home directory at file:///Users/lizhenliang/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/LaunchImage-700-568h@2x.png
+o/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Assets.car
+o/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"CompileAssetCatalog /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app Project2/Images.xcassets140"CompileAssetCatalog /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app Project2/Images.xcassets429906018235b941^363fba018235b941^-656"2014-05-28 10:31:29.652 IBCocoaTouchImageCatalogTool[7503:303] CFPreferences: user home directory at file:///Users/lizhenliang/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/LaunchImage-700-568h@2x.png/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Assets.car/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@72"file:///Users/lizhenliang/Desktop/ios/Project2/Project2/Images.xcassets/0000000000000000^1183"CompileAssetCatalog /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app Project2/Images.xcassets    cd /Users/lizhenliang/Desktop/ios/Project2    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app /Users/lizhenliang/Desktop/ios/Pr36"5AB9DF8A-D8BC-4D13-8488-F3BCBD724DD7-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/AllCheckListsViewController.o /Users/lizhenliang/Desktop/ios/Project2/Project2/AllCheckListsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422937088.644996
+e422937088.790516
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/AllCheckListsViewController.o
+x/Users/lizhenliang/Desktop/ios/Project2/Project2/AllCheckListsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/AllCheckListsViewController.m
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/AllCheckListsViewController.h
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.h
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/WHViewController.h
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/ItemDetailViewController.h
+d/Users/lizhenliang/Desktop/ios/Project2/CheckItem.h
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/ListDetailViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/lizhenliang/Desktop/ios/Project2/Project2/AllCheckListsViewController.m283"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/AllCheckListsViewController.o Project2/AllCheckListsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbd38a5008235b941^525fca008235b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/lizhenliang/Desktop/ios/Project2/Project2/AllCheckListsViewController.m0000000000000000^3822"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/AllCheckListsViewController.o Project2/AllCheckListsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lizhenliang/Desktop/ios/Project2    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources/i386 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-aydtxnwuyknzrsfiensnaknzkpqu/Project2-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/AllCheckListsViewController.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/AllCheckListsViewController.dia -c /Users/lizhenliang/Desktop/ios/Project2/Project2/AllCheckListsViewController.m -o /Users/lizhenliang/Desktop/ios/内存管理/Build/Interm36"D1B3138B-C52D-4353-93AF-AD244AD2DF9F-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/CheckItem.o /Users/lizhenliang/Desktop/ios/Project2/CheckItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422937088.683305
+e422937088.755855
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/CheckItem.o
+x/Users/lizhenliang/Desktop/ios/Project2/CheckItem.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/ios/Project2/CheckItem.m
+d/Users/lizhenliang/Desktop/ios/Project2/CheckItem.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/lizhenliang/Desktop/ios/Project2/CheckItem.m238"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/CheckItem.o CheckItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4d12af008235b941^2b69c1008235b941^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/lizhenliang/Desktop/ios/Project2/CheckItem.m0000000000000000^3695"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/CheckItem.o CheckItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lizhenliang/Desktop/ios/Project2    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources/i386 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-aydtxnwuyknzrsfiensnaknzkpqu/Project2-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/CheckItem.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/CheckItem.dia -c /Users/lizhenliang/Desktop/ios/Project2/CheckItem.m -o /Users/lizhenliang/Desktop/ios/内存36"48C52DD3-E28E-42BF-BC00-A72AD4C4C72D-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/Checklist.o /Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422937088.691216
+e422937088.743586
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/Checklist.o
+x/Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.m
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.m247"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/Checklist.o Project2/Checklist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb210b1008235b941^925cbe008235b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.m0000000000000000^3713"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/Checklist.o Project2/Checklist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lizhenliang/Desktop/ios/Project2    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources/i386 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-aydtxnwuyknzrsfiensnaknzkpqu/Project2-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/Checklist.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/Checklist.dia -c /Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.m -o /Users/lizhenliang/Desktop/ios/内存36"EAD5DC80-E804-4F99-93A5-0F6592432685-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/ItemDetailViewController.o /Users/lizhenliang/Desktop/ios/Project2/Project2/ItemDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422937088.656983
+e422937088.776234
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/ItemDetailViewController.o
+x/Users/lizhenliang/Desktop/ios/Project2/Project2/ItemDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/ItemDetailViewController.m
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/ItemDetailViewController.h
+d/Users/lizhenliang/Desktop/ios/Project2/CheckItem.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/lizhenliang/Desktop/ios/Project2/Project2/ItemDetailViewController.m277"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/ItemDetailViewController.o Project2/ItemDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler014da8008235b941^0fb8c6008235b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/lizhenliang/Desktop/ios/Project2/Project2/ItemDetailViewController.m0000000000000000^3804"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/ItemDetailViewController.o Project2/ItemDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lizhenliang/Desktop/ios/Project2    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources/i386 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-aydtxnwuyknzrsfiensnaknzkpqu/Project2-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/ItemDetailViewController.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/ItemDetailViewController.dia -c /Users/lizhenliang/Desktop/ios/Project2/Project2/ItemDetailViewController.m -o /Users/lizhenliang/Desktop/ios/内存管理/Build/Int36"B5FF5719-02E3-4932-8102-B0597451F71C-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/ListDetailViewController.o /Users/lizhenliang/Desktop/ios/Project2/Project2/ListDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422937088.477037
+e422937088.682459
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/ListDetailViewController.o
+x/Users/lizhenliang/Desktop/ios/Project2/Project2/ListDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/ListDetailViewController.m
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/ListDetailViewController.h
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/lizhenliang/Desktop/ios/Project2/Project2/ListDetailViewController.m277"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/ListDetailViewController.o Project2/ListDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler22387a008235b941^f6b5ae008235b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/lizhenliang/Desktop/ios/Project2/Project2/ListDetailViewController.m0000000000000000^3804"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/ListDetailViewController.o Project2/ListDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lizhenliang/Desktop/ios/Project2    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources/i386 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-aydtxnwuyknzrsfiensnaknzkpqu/Project2-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/ListDetailViewController.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/ListDetailViewController.dia -c /Users/lizhenliang/Desktop/ios/Project2/Project2/ListDetailViewController.m -o /Users/lizhenliang/Desktop/ios/内存管理/Build/Int36"267C5096-92BC-4B80-9530-753FBE84CD34-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/WHAppDelegate.o /Users/lizhenliang/Desktop/ios/Project2/Project2/WHAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422937088.476418
+e422937088.656546
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/WHAppDelegate.o
+x/Users/lizhenliang/Desktop/ios/Project2/Project2/WHAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/WHAppDelegate.m
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/WHAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/lizhenliang/Desktop/ios/Project2/Project2/WHAppDelegate.m255"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/WHAppDelegate.o Project2/WHAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera0177a008235b941^3e09a8008235b941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/lizhenliang/Desktop/ios/Project2/Project2/WHAppDelegate.m0000000000000000^3736"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/WHAppDelegate.o Project2/WHAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lizhenliang/Desktop/ios/Project2    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources/i386 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-aydtxnwuyknzrsfiensnaknzkpqu/Project2-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/WHAppDelegate.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/WHAppDelegate.dia -c /Users/lizhenliang/Desktop/ios/Project2/Project2/WHAppDelegate.m -o /Users/lizhenliang/Desktop/ios/内存管36"ACC1378B-E8E6-47A8-84C2-CB9806CEABB3-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/WHViewController.o /Users/lizhenliang/Desktop/ios/Project2/Project2/WHViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422937088.475797
+e422937088.690990
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/WHViewController.o
+x/Users/lizhenliang/Desktop/ios/Project2/Project2/WHViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/WHViewController.m
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/WHViewController.h
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/ItemDetailViewController.h
+d/Users/lizhenliang/Desktop/ios/Project2/CheckItem.h
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/lizhenliang/Desktop/ios/Project2/Project2/WHViewController.m261"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/WHViewController.o Project2/WHViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8be279008235b941^e9b6b0008235b941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/lizhenliang/Desktop/ios/Project2/Project2/WHViewController.m0000000000000000^3756"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/WHViewController.o Project2/WHViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lizhenliang/Desktop/ios/Project2    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources/i386 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-aydtxnwuyknzrsfiensnaknzkpqu/Project2-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/WHViewController.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/WHViewController.dia -c /Users/lizhenliang/Desktop/ios/Project2/Project2/WHViewController.m -o /Users/lizhenliang/Desktop/ios/内存管理/B36"C82CB78E-38E5-4674-89E2-A77F3C3DCCE3-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/main.o /Users/lizhenliang/Desktop/ios/Project2/Project2/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422937088.475994
+e422937088.644258
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/main.o
+x/Users/lizhenliang/Desktop/ios/Project2/Project2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/main.m
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/WHAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/lizhenliang/Desktop/ios/Project2/Project2/main.m237"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/main.o Project2/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdcf279008235b941^18eea4008235b941^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/lizhenliang/Desktop/ios/Project2/Project2/main.m0000000000000000^3682"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/main.o Project2/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lizhenliang/Desktop/ios/Project2    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources/i386 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-aydtxnwuyknzrsfiensnaknzkpqu/Project2-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/main.dia -c /Users/lizhenliang/Desktop/ios/Project2/Project2/main.m -o /Users/lizhenliang/Desktop/ios/36"C2D92BDD-205B-49CD-88C0-D3BFF81CBD09-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/AllCheckListsViewController.o /Users/lizhenliang/Desktop/ios/Project2/Project2/AllCheckListsViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422937088.807638
+e422937088.943397
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/AllCheckListsViewController.o
+x/Users/lizhenliang/Desktop/ios/Project2/Project2/AllCheckListsViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/AllCheckListsViewController.m
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/AllCheckListsViewController.h
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.h
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/WHViewController.h
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/ItemDetailViewController.h
+d/Users/lizhenliang/Desktop/ios/Project2/CheckItem.h
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/ListDetailViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/lizhenliang/Desktop/ios/Project2/Project2/AllCheckListsViewController.m287"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/AllCheckListsViewController.o Project2/AllCheckListsViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler19e8ce008235b941^5f9bf1008235b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/lizhenliang/Desktop/ios/Project2/Project2/AllCheckListsViewController.m0000000000000000^3836"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/AllCheckListsViewController.o Project2/AllCheckListsViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lizhenliang/Desktop/ios/Project2    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources/x86_64 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-dppoegjbwzecqybprbrczkswqnhz/Project2-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/AllCheckListsViewController.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/AllCheckListsViewController.dia -c /Users/lizhenliang/Desktop/ios/Project2/Project2/AllCheckListsViewController.m -o /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermed36"3641189D-3EA2-4BB3-A4CF-230776DA07BE-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/CheckItem.o /Users/lizhenliang/Desktop/ios/Project2/CheckItem.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422937088.908810
+e422937088.966995
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/CheckItem.o
+x/Users/lizhenliang/Desktop/ios/Project2/CheckItem.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/ios/Project2/CheckItem.m
+d/Users/lizhenliang/Desktop/ios/Project2/CheckItem.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/lizhenliang/Desktop/ios/Project2/CheckItem.m242"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/CheckItem.o CheckItem.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler83c2e8008235b941^2a8ef7008235b941^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/lizhenliang/Desktop/ios/Project2/CheckItem.m0000000000000000^3710"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/CheckItem.o CheckItem.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lizhenliang/Desktop/ios/Project2    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources/x86_64 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-dppoegjbwzecqybprbrczkswqnhz/Project2-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/CheckItem.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/CheckItem.dia -c /Users/lizhenliang/Desktop/ios/Project2/CheckItem.m -o /Users/lizhenliang/Desktop/ios/内存管36"C70F27AF-346C-4C09-9B81-A35F0153E113-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/Checklist.o /Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422937088.912066
+e422937088.957900
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/Checklist.o
+x/Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.m
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.m251"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/Checklist.o Project2/Checklist.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler0b9be9008235b941^3239f5008235b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.m0000000000000000^3728"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/Checklist.o Project2/Checklist.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lizhenliang/Desktop/ios/Project2    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources/x86_64 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-dppoegjbwzecqybprbrczkswqnhz/Project2-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/Checklist.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/Checklist.dia -c /Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.m -o /Users/lizhenliang/Desktop/ios/内存管36"C7D113D6-6A2A-466F-8474-4031083EC46F-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/ItemDetailViewController.o /Users/lizhenliang/Desktop/ios/Project2/Project2/ItemDetailViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422937088.877894
+e422937088.979685
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/ItemDetailViewController.o
+x/Users/lizhenliang/Desktop/ios/Project2/Project2/ItemDetailViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/ItemDetailViewController.m
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/ItemDetailViewController.h
+d/Users/lizhenliang/Desktop/ios/Project2/CheckItem.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/lizhenliang/Desktop/ios/Project2/Project2/ItemDetailViewController.m281"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/ItemDetailViewController.o Project2/ItemDetailViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler90dae0008235b941^d9cffa008235b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/lizhenliang/Desktop/ios/Project2/Project2/ItemDetailViewController.m0000000000000000^3818"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/ItemDetailViewController.o Project2/ItemDetailViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lizhenliang/Desktop/ios/Project2    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources/x86_64 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-dppoegjbwzecqybprbrczkswqnhz/Project2-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/ItemDetailViewController.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/ItemDetailViewController.dia -c /Users/lizhenliang/Desktop/ios/Project2/Project2/ItemDetailViewController.m -o /Users/lizhenliang/Desktop/ios/内存管理/Build/Inter36"EF43CE41-A1A2-4A47-BA8A-10818035C43E-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/ListDetailViewController.o /Users/lizhenliang/Desktop/ios/Project2/Project2/ListDetailViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422937088.791378
+e422937088.908284
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/ListDetailViewController.o
+x/Users/lizhenliang/Desktop/ios/Project2/Project2/ListDetailViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/ListDetailViewController.m
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/ListDetailViewController.h
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/lizhenliang/Desktop/ios/Project2/Project2/ListDetailViewController.m281"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/ListDetailViewController.o Project2/ListDetailViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler18b2ca008235b941^a185e8008235b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/lizhenliang/Desktop/ios/Project2/Project2/ListDetailViewController.m0000000000000000^3818"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/ListDetailViewController.o Project2/ListDetailViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lizhenliang/Desktop/ios/Project2    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources/x86_64 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-dppoegjbwzecqybprbrczkswqnhz/Project2-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/ListDetailViewController.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/ListDetailViewController.dia -c /Users/lizhenliang/Desktop/ios/Project2/Project2/ListDetailViewController.m -o /Users/lizhenliang/Desktop/ios/内存管理/Build/Inter36"FAE7AFEF-B9D1-41DF-8B00-842907D26679-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/WHAppDelegate.o /Users/lizhenliang/Desktop/ios/Project2/Project2/WHAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422937088.777789
+e422937088.877611
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/WHAppDelegate.o
+x/Users/lizhenliang/Desktop/ios/Project2/Project2/WHAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/WHAppDelegate.m
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/WHAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/lizhenliang/Desktop/ios/Project2/Project2/WHAppDelegate.m259"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/WHAppDelegate.o Project2/WHAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc139c7008235b941^fd68e0008235b941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/lizhenliang/Desktop/ios/Project2/Project2/WHAppDelegate.m0000000000000000^3752"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/WHAppDelegate.o Project2/WHAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lizhenliang/Desktop/ios/Project2    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources/x86_64 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-dppoegjbwzecqybprbrczkswqnhz/Project2-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/WHAppDelegate.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/WHAppDelegate.dia -c /Users/lizhenliang/Desktop/ios/Project2/Project2/WHAppDelegate.m -o /Users/lizhenliang/Desktop/ios/内存管理/36"0921E67C-D38F-4437-9EA1-F7CD93038629-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/WHViewController.o /Users/lizhenliang/Desktop/ios/Project2/Project2/WHViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422937088.744259
+e422937088.911431
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/WHViewController.o
+x/Users/lizhenliang/Desktop/ios/Project2/Project2/WHViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/WHViewController.m
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/WHViewController.h
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/ItemDetailViewController.h
+d/Users/lizhenliang/Desktop/ios/Project2/CheckItem.h
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/Checklist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/lizhenliang/Desktop/ios/Project2/Project2/WHViewController.m265"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/WHViewController.o Project2/WHViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera1a2be008235b941^6554e9008235b941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/lizhenliang/Desktop/ios/Project2/Project2/WHViewController.m0000000000000000^3770"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/WHViewController.o Project2/WHViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lizhenliang/Desktop/ios/Project2    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources/x86_64 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-dppoegjbwzecqybprbrczkswqnhz/Project2-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/WHViewController.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/WHViewController.dia -c /Users/lizhenliang/Desktop/ios/Project2/Project2/WHViewController.m -o /Users/lizhenliang/Desktop/ios/内存管理/Bui36"2AD2B35E-FC41-4E5A-BABE-9E83A9CD266F-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/main.o /Users/lizhenliang/Desktop/ios/Project2/Project2/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422937088.756402
+e422937088.806895
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/main.o
+x/Users/lizhenliang/Desktop/ios/Project2/Project2/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/main.m
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/WHAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/lizhenliang/Desktop/ios/Project2/Project2/main.m241"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/main.o Project2/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler40c1c1008235b941^2191ce008235b941^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/lizhenliang/Desktop/ios/Project2/Project2/main.m0000000000000000^3697"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/main.o Project2/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lizhenliang/Desktop/ios/Project2    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources/x86_64 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-dppoegjbwzecqybprbrczkswqnhz/Project2-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/main.dia -c /Users/lizhenliang/Desktop/ios/Project2/Project2/main.m -o /Users/lizhenliang/Desktop/ios/内36"620E40F9-4B2B-42E7-92B6-8D5687B39974-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CCompileStoryboard /Users/lizhenliang/Desktop/ios/Project2/Project2/Base.lproj/Main.storyboard
+s422937089.024884
+e422937089.316952
+r1
+xCompileStoryboard
+x/Users/lizhenliang/Desktop/ios/Project2/Project2/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"CompileStoryboard Project2/Base.lproj/Main.storyboard53"CompileStoryboard Project2/Base.lproj/Main.storyboard226e06018235b941^1d1f51018235b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/lizhenliang/Desktop/ios/Project2/Project2/Base.lproj/Main.storyboard0000000000000000^851"CompileStoryboard Project2/Base.lproj/Main.storyboard    cd /Users/lizhenliang/Desktop/ios/Project2    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Base.lproj/Main.storyboardc /Users/lizhenliang/Desktop/ios/Project2/Project2/Base.lproj/Main.storyboard36"D805F0CE-1F93-4B65-86B6-579758876EDA-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CCopyStringsFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/en.lproj/InfoPlist.strings Project2/en.lproj/InfoPlist.strings
+s422937089.024742
+e422937089.026706
+r1
+xCopyStringsFile
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/en.lproj/InfoPlist.strings
+xProject2/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy Project2/en.lproj/InfoPlist.strings174"CopyStringsFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/en.lproj/InfoPlist.strings Project2/en.lproj/InfoPlist.strings786206018235b941^dcd606018235b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/lizhenliang/Desktop/ios/Project2/Project2/en.lproj/InfoPlist.strings0000000000000000^651"CopyStringsFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/en.lproj/InfoPlist.strings Project2/en.lproj/InfoPlist.strings    cd /Users/lizhenliang/Desktop/ios/Project2    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/en.lproj -- Project2/en.lproj/InfoPlist.strings36"E84C40D3-EF61-487E-8447-A5C2E6706611-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CCreateUniversalBinary /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Project2 normal i386\ x86_64
+s422937089.015412
+e422937089.024270
+r1
+xCreateUniversalBinary
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Project2
+xnormal
+xi386 x86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Create universal binary /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Project2146"CreateUniversalBinary /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Project2 normal i386\ x86_64f70504018235b941^1d3d06018235b941^---0#0#1#-19%DVTDocumentLocation2@135"file:///Users/lizhenliang/Desktop/ios/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/Build/Products/Release-iphonesimulator/Project2.app/Project200344c89dfffdf42^902"CreateUniversalBinary /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Project2 normal i386\ x86_64    cd /Users/lizhenliang/Desktop/ios/Project2    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -create /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/Project2 /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/Project2 -output /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Project236"6BC8DE90-4EB2-4249-9EBB-FD1405BD519C-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CGenerateDSYMFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app.dSYM /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Project2
+s422937089.729754
+e422937089.756315
+r1
+xGenerateDSYMFile
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app.dSYM
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Project2
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Generate /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app.dSYM222"GenerateDSYMFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app.dSYM /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Project24ddcba018235b941^c39fc1018235b941^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/lizhenliang/Desktop/ios/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/Build/Products/Release-iphonesimulator/Project2.app.dSYM00344c89dfffdf42^774"GenerateDSYMFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app.dSYM /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Project2    cd /Users/lizhenliang/Desktop/ios/Project2    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Project2 -o /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app.dSYM36"CBA97239-13DE-4C56-9E07-C1BA4C07D019-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CLd /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/Project2 normal i386
+s422937088.980554
+e422937089.014028
+r1
+xLd
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/Project2
+xnormal
+xi386
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/Project2.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/WHViewController.o
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/main.o
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/WHAppDelegate.o
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/ListDetailViewController.o
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/AllCheckListsViewController.o
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/ItemDetailViewController.o
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/CheckItem.o
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/Checklist.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"Link /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/Project2161"Ld /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/Project2 normal i386fd14fb008235b941^dd9703018235b941^---0#0#1#--1517"Ld /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/Project2 normal i386    cd /Users/lizhenliang/Desktop/ios/Project2    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator -filelist /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/Project2.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/i386/Project2_dependency_info.dat -o /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimula36"3148D6F2-C4D1-48DA-B04F-CD058CD3CAA9-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CLd /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/Project2 normal x86_64
+s422937088.980958
+e422937089.014620
+r1
+xLd
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/Project2
+xnormal
+xx86_64
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/Project2.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/WHViewController.o
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/main.o
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/WHAppDelegate.o
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/ListDetailViewController.o
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/AllCheckListsViewController.o
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/ItemDetailViewController.o
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/CheckItem.o
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/Checklist.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection153"Link /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/Project2165"Ld /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/Project2 normal x86_64a131fb008235b941^a9be03018235b941^---0#0#1#--1529"Ld /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/Project2 normal x86_64    cd /Users/lizhenliang/Desktop/ios/Project2    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator -filelist /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/Project2.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Objects-normal/x86_64/Project2_dependency_info.dat -o /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulato36"5A543F69-C3C4-4CFD-A019-27DBE9ACD342-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CProcessInfoPlistFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Info.plist /Users/lizhenliang/Desktop/ios/Project2/Project2/Project2-Info.plist
+s422937089.727983
+e422937089.729369
+r1
+xProcessInfoPlistFile
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Info.plist
+x/Users/lizhenliang/Desktop/ios/Project2/Project2/Project2-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Process /Users/lizhenliang/Desktop/ios/Project2/Project2/Project2-Info.plist156"ProcessInfoPlistFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Info.plist Project2/Project2-Info.plist6e68ba018235b941^a1b9ba018235b941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/lizhenliang/Desktop/ios/Project2/Project2/Project2-Info.plist0000000000000000^960"ProcessInfoPlistFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Info.plist Project2/Project2-Info.plist    cd /Users/lizhenliang/Desktop/ios/Project2    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/lizhenliang/Desktop/ios/Project2/Project2/Project2-Info.plist -genpkginfo /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/assetcatalog_generated_info.plist -o /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app/Info.plist36"BF940D39-8985-4970-9DCD-E8A3149F865D-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CProcessPCH /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-aydtxnwuyknzrsfiensnaknzkpqu/Project2-Prefix.pch.pch Project2/Project2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422937087.435377
+e422937088.475112
+r1
+xProcessPCH
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-aydtxnwuyknzrsfiensnaknzkpqu/Project2-Prefix.pch.pch
+xProject2/Project2-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/Project2-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Project2/Project2-Prefix.pch259"ProcessPCH /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-aydtxnwuyknzrsfiensnaknzkpqu/Project2-Prefix.pch.pch Project2/Project2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler048f6fff8135b941^c9ad79008235b941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/lizhenliang/Desktop/ios/Project2/Project2/Project2-Prefix.pch0000000000000000^3594"ProcessPCH /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-aydtxnwuyknzrsfiensnaknzkpqu/Project2-Prefix.pch.pch Project2/Project2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lizhenliang/Desktop/ios/Project2    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources/i386 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-aydtxnwuyknzrsfiensnaknzkpqu/Project2-Prefix.pch.dia -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-aydtxnwuyknzrsfiensnaknzkpqu/Project2-Prefix.pch.d -c /Users/lizhenliang/Desktop/ios/Project2/Project2/Project2-Prefix.pch -o /Users/lizhenliang/Desktop/ios/内存管理/Buil36"A3BE0435-35A1-42BB-913B-6E919C0B8D1C-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CProcessPCH /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-dppoegjbwzecqybprbrczkswqnhz/Project2-Prefix.pch.pch Project2/Project2-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422937087.435586
+e422937088.475112
+r1
+xProcessPCH
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-dppoegjbwzecqybprbrczkswqnhz/Project2-Prefix.pch.pch
+xProject2/Project2-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/ios/Project2/Project2/Project2-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Project2/Project2-Prefix.pch261"ProcessPCH /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-dppoegjbwzecqybprbrczkswqnhz/Project2-Prefix.pch.pch Project2/Project2-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler14976fff8135b941^0aa379008235b941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/lizhenliang/Desktop/ios/Project2/Project2/Project2-Prefix.pch0000000000000000^3600"ProcessPCH /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-dppoegjbwzecqybprbrczkswqnhz/Project2-Prefix.pch.pch Project2/Project2-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lizhenliang/Desktop/ios/Project2    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/Project2-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources/x86_64 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Project2.build/Release-iphonesimulator/Project2.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-dppoegjbwzecqybprbrczkswqnhz/Project2-Prefix.pch.dia -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Project2-Prefix-dppoegjbwzecqybprbrczkswqnhz/Project2-Prefix.pch.d -c /Users/lizhenliang/Desktop/ios/Project2/Project2/Project2-Prefix.pch -o /Users/lizhenliang/Desktop/ios/内存管理/Buil36"B2E435F0-EA05-47F2-8C74-7E5155D23855-
+b131F0443-FDE5-4157-A496-024C3D0B4229
+
+CProcessPCH /Users/lizhenliang/Desktop/ios/内存管理/Project2-hamaxavhngqvbffqigmenfmrqmxj/Index/PrecompiledHeaders/Project2-Prefix-bpynrydsjbcbjbbgocvpkjtldcol_ast/Project2-Prefix.pch.pch Project2/Project2-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/lizhenliang/Desktop/ios/内存管理/Project2-hamaxavhngqvbffqigmenfmrqmxj/Index/PrecompiledHeaders/Project2-Prefix-gayduenxapaerlhebxcngnakedzi_ast/Project2-Prefix.pch.pch Project2/Project2-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Release-iphonesimulator/Project2.app
+r0
+

@@ -1,0 +1,573 @@
+TChecklists
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/ResourceRules.plist
+cProcessPCH /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Checklists-Prefix-dkwbnpzfgyaqwbcwpvniupcqwavy/Checklists-Prefix.pch.pch Checklists/Checklists-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/main.o /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistsAppDelegate.o /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/ChecklistsAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/AllListsViewController.o /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/AllListsViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ListDetailViewController.o /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/ListDetailViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistViewController.o /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/ChecklistViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ItemDetailViewController.o /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/ItemDetailViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistItem.o /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/ChecklistItem.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/Checklist.o /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/Checklist.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/Checklists normal armv7
+cCopyStringsFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/en.lproj/InfoPlist.strings Checklists/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/Images.xcassets
+cProcessInfoPlistFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/Info.plist /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/Checklists-Info.plist
+cGenerateDSYMFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app.dSYM /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/Checklists
+cProcessProductPackaging /Users/lizhenliang/Library/MobileDevice/Provisioning\ Profiles/40A23946-638C-4A96-BC09-7B97DE041FF7.mobileprovision /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/embedded.mobileprovision
+cTouch /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists.xcent
+cCodeSign /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053119F860000000000000132
+t1393663878
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+c00000000535A73970000000000000094
+t1398436759
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c00000000535A73970000000000000096
+t1398436759
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000535A7397000000000000036B
+t1398436759
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000535A7397000000000000019E
+t1398436759
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000535A739900000000004D7BC0
+t1398436761
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000535A739A0000000000A90C10
+t1398436762
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000535A739E0000000002759920
+t1398436766
+s41261344
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000535A73D80000000000000ADC
+t1398436824
+s2780
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists.xcent
+t1401206694
+s420
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/AllListsViewController.o
+t1401206693
+s70080
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/Checklist.o
+t1401206693
+s6436
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistItem.o
+t1401206693
+s12104
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistViewController.o
+t1401206693
+s77276
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/Checklists.LinkFileList
+c000000005384B7A400000000000004D4
+t1401206692
+s1236
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistsAppDelegate.o
+t1401206693
+s62276
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ItemDetailViewController.o
+t1401206693
+s60864
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ListDetailViewController.o
+t1401206693
+s60852
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/main.o
+t1401206693
+s4008
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/assetcatalog_dependencies.txt
+t1401206694
+s380
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/assetcatalog_generated_info.plist
+t1401206694
+s525
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Checklists-Prefix-dkwbnpzfgyaqwbcwpvniupcqwavy/Checklists-Prefix.pch.pch
+t1401206693
+s89152
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app
+t1401206694
+s374
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app.dSYM
+t2
+s0
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/Base.lproj/Main.storyboardc
+t1401206694
+s374
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/Checklists
+t1401206693
+s89416
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/Info.plist
+t1401206694
+s1302
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/PkgInfo
+t1401206694
+s8
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/ResourceRules.plist
+t1401206692
+s150
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/embedded.mobileprovision
+t1401206694
+s19532
+
+N/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/en.lproj/InfoPlist.strings
+t1401206693
+s42
+
+N/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/AllListsViewController.m
+c00000000524E9EB90000000000001328
+t1380884153
+s4904
+
+N/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/Base.lproj/Main.storyboard
+c000000005384B7A400000000000053C2
+t1401206692
+s21442
+
+N/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/Checklist.m
+c00000000524BF89A00000000000000BF
+t1380710554
+s191
+
+N/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ChecklistItem.m
+c00000000524BDEA6000000000000026E
+t1380703910
+s622
+
+N/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ChecklistViewController.m
+c00000000524E9E320000000000001533
+t1380884018
+s5427
+
+N/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/Checklists-Info.plist
+c000000005249305D00000000000004C9
+t1380528221
+s1225
+
+N/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/Checklists-Prefix.pch
+c000000005249305D0000000000000152
+t1380528221
+s338
+
+N/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ChecklistsAppDelegate.m
+c000000005249305D00000000000007E2
+t1380528221
+s2018
+
+N/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/Images.xcassets
+c000000005384B76900000000000000AA
+t1401206633
+s170
+
+N/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ItemDetailViewController.m
+c00000000524AD03F0000000000000722
+t1380634687
+s1826
+
+N/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ListDetailViewController.m
+c00000000524C0D100000000000000739
+t1380715792
+s1849
+
+N/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/en.lproj/InfoPlist.strings
+c000000005249305D000000000000002D
+t1380528221
+s45
+
+N/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/main.m
+c000000005249305D000000000000015E
+t1380528221
+s350
+
+N/Users/lizhenliang/Library/MobileDevice/Provisioning Profiles/40A23946-638C-4A96-BC09-7B97DE041FF7.mobileprovision
+c00000000536CD8170000000000004C4C
+t1399642135
+s19532
+
+CBuild AST from /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/AllListsViewController.m
+r0
+
+CBuild AST from /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/Checklist.m
+r0
+
+CBuild AST from /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/ChecklistItem.m
+r0
+
+CBuild AST from /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/ChecklistViewController.m
+r0
+
+CBuild AST from /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/ChecklistsAppDelegate.m
+r0
+
+CBuild AST from /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/ItemDetailViewController.m
+r0
+
+CBuild AST from /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/ListDetailViewController.m
+r0
+
+CBuild AST from /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies25cfd524ef34b941^f69ae624ef34b941^---0#1#1#--18"Check dependencies36"03B5FF25-8F14-4F19-BE2B-B21FD3334D25-
+
+CCodeSign /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app
+s422899494.812638
+e422899494.938754
+r1
+xCodeSign
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"CodeSign /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app97"CodeSign /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.appd718d026ef34b941^a452f026ef34b941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/lizhenliang/Desktop/ios/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/Build/Products/Debug-iphoneos/Checklists.app/0000000000000000^1063"CodeSign /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app    cd "/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16"    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: Hongming Zhu (H5SJ56Z88P)" and provisioning profile "AppleClub" (40A23946-638C-4A96-BC09-7B97DE041FF7)    /usr/bin/codesign --force --sign 1E6134BA12FC5B7AEB552CF6B262D01E0B554D66 --resource-rules=/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/ResourceRules.plist --entitlements /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists.xcent /Users/lizhenliang/De36"C5847DD7-5A79-45DB-9403-BD3CD81CE0C7-
+b5DD28AFE-C925-4ECE-9188-C52D56BD25DE
+
+CCompileAssetCatalog /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/Images.xcassets
+s422899493.997629
+e422899494.788051
+r1
+xCompileAssetCatalog
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app
+x/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/Images.xcassets
+o2014-05-28 00:04:54.717 IBCocoaTouchImageCatalogTool[6486:303] CFPreferences: user home directory at file:///Users/lizhenliang/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/LaunchImage-700-568h@2x.png
+o/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/Assets.car
+o/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"CompileAssetCatalog /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app Checklists/Images.xcassets135"CompileAssetCatalog /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app Checklists/Images.xcassets2578ff25ef34b941^5ebec926ef34b941^-637"2014-05-28 00:04:54.717 IBCocoaTouchImageCatalogTool[6486:303] CFPreferences: user home directory at file:///Users/lizhenliang/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/LaunchImage-700-568h@2x.png/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/Assets.car/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@256"file:///Users/lizhenliang/Desktop/%E8%AE%A9%E4%B8%8D%E6%87%82%E7%BC%96%E7%A8%8B%E7%9A%84%E4%BA%BA%E7%88%B1%E4%B8%8AiPhone%E5%BC%80%E5%8F%91(iOS-7%EF%BC%89/%E7%B3%BB%E5%88%972/%E4%BB%A3%E7%A0%81/iOS%20%E5%85%A5%E9%97%A8%202/cha16/Checklists/Images.xcassets/0000000000000000^1174"CompileAssetCatalog /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app Checklists/Images.xcassets    cd "/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app /Users/lizhenliang/Desktop/让不36"C9780A64-DFDB-473B-95B5-B333D322F562-
+b5DD28AFE-C925-4ECE-9188-C52D56BD25DE
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/AllListsViewController.o /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/AllListsViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422899493.610269
+e422899493.743255
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/AllListsViewController.o
+x/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/AllListsViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/AllListsViewController.m
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/AllListsViewController.h
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ListDetailViewController.h
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/Checklist.h
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ChecklistViewController.h
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ItemDetailViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection153"Compile /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/AllListsViewController.m272"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/AllListsViewController.o Checklists/AllListsViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler645d9c25ef34b941^1842be25ef34b941^---0#0#1#-19%DVTDocumentLocation2@264"file:///Users/lizhenliang/Desktop/%E8%AE%A9%E4%B8%8D%E6%87%82%E7%BC%96%E7%A8%8B%E7%9A%84%E4%BA%BA%E7%88%B1%E4%B8%8AiPhone%E5%BC%80%E5%8F%91(iOS-7%EF%BC%89/%E7%B3%BB%E5%88%972/%E4%BB%A3%E7%A0%81/iOS%20%E5%85%A5%E9%97%A8%202/cha16/Checklists/AllListsViewController.m0000000000000000^3677"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/AllListsViewController.o Checklists/AllListsViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/DerivedSources/armv7 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Checklists-Prefix-dkwbnpzfgyaqwbcwpvniupcqwavy/Checklists-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/AllListsViewController.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/AllListsViewController.dia -c /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/All36"89DF7400-4D6A-4A59-A0D4-6BB66395DCE5-
+b5DD28AFE-C925-4ECE-9188-C52D56BD25DE
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/Checklist.o /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/Checklist.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422899493.746692
+e422899493.818212
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/Checklist.o
+x/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/Checklist.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/Checklist.m
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/Checklist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Compile /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/Checklist.m246"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/Checklist.o Checklists/Checklist.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler0c40bf25ef34b941^cd95d125ef34b941^---0#0#1#-19%DVTDocumentLocation2@251"file:///Users/lizhenliang/Desktop/%E8%AE%A9%E4%B8%8D%E6%87%82%E7%BC%96%E7%A8%8B%E7%9A%84%E4%BA%BA%E7%88%B1%E4%B8%8AiPhone%E5%BC%80%E5%8F%91(iOS-7%EF%BC%89/%E7%B3%BB%E5%88%972/%E4%BB%A3%E7%A0%81/iOS%20%E5%85%A5%E9%97%A8%202/cha16/Checklists/Checklist.m0000000000000000^3598"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/Checklist.o Checklists/Checklist.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/DerivedSources/armv7 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Checklists-Prefix-dkwbnpzfgyaqwbcwpvniupcqwavy/Checklists-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/Checklist.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/Checklist.dia -c /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入36"887B8937-D27D-4939-A420-3FF8A041B795-
+b5DD28AFE-C925-4ECE-9188-C52D56BD25DE
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistItem.o /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/ChecklistItem.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422899493.746117
+e422899493.816905
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistItem.o
+x/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ChecklistItem.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ChecklistItem.m
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ChecklistItem.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Compile /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ChecklistItem.m254"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistItem.o Checklists/ChecklistItem.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler2e1dbf25ef34b941^5d37d125ef34b941^---0#0#1#-19%DVTDocumentLocation2@255"file:///Users/lizhenliang/Desktop/%E8%AE%A9%E4%B8%8D%E6%87%82%E7%BC%96%E7%A8%8B%E7%9A%84%E4%BA%BA%E7%88%B1%E4%B8%8AiPhone%E5%BC%80%E5%8F%91(iOS-7%EF%BC%89/%E7%B3%BB%E5%88%972/%E4%BB%A3%E7%A0%81/iOS%20%E5%85%A5%E9%97%A8%202/cha16/Checklists/ChecklistItem.m0000000000000000^3623"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistItem.o Checklists/ChecklistItem.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/DerivedSources/armv7 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Checklists-Prefix-dkwbnpzfgyaqwbcwpvniupcqwavy/Checklists-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistItem.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistItem.dia -c /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/ch36"DDBE9A3C-4BAB-4BE1-B050-FFA1FEEB9E66-
+b5DD28AFE-C925-4ECE-9188-C52D56BD25DE
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistViewController.o /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/ChecklistViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422899493.679387
+e422899493.823526
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistViewController.o
+x/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ChecklistViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ChecklistViewController.m
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ChecklistViewController.h
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ItemDetailViewController.h
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ChecklistItem.h
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/Checklist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Compile /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ChecklistViewController.m274"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistViewController.o Checklists/ChecklistViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerab05ae25ef34b941^ccd2d225ef34b941^---0#0#1#-19%DVTDocumentLocation2@265"file:///Users/lizhenliang/Desktop/%E8%AE%A9%E4%B8%8D%E6%87%82%E7%BC%96%E7%A8%8B%E7%9A%84%E4%BA%BA%E7%88%B1%E4%B8%8AiPhone%E5%BC%80%E5%8F%91(iOS-7%EF%BC%89/%E7%B3%BB%E5%88%972/%E4%BB%A3%E7%A0%81/iOS%20%E5%85%A5%E9%97%A8%202/cha16/Checklists/ChecklistViewController.m0000000000000000^3683"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistViewController.o Checklists/ChecklistViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/DerivedSources/armv7 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Checklists-Prefix-dkwbnpzfgyaqwbcwpvniupcqwavy/Checklists-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistViewController.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistViewController.dia -c /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/Check36"7EF2034D-AE03-455A-A90B-8703BB6E55C8-
+b5DD28AFE-C925-4ECE-9188-C52D56BD25DE
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistsAppDelegate.o /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/ChecklistsAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422899493.609847
+e422899493.719548
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistsAppDelegate.o
+x/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ChecklistsAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ChecklistsAppDelegate.m
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ChecklistsAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection152"Compile /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ChecklistsAppDelegate.m270"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistsAppDelegate.o Checklists/ChecklistsAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler33369c25ef34b941^20edb725ef34b941^---0#0#1#-19%DVTDocumentLocation2@263"file:///Users/lizhenliang/Desktop/%E8%AE%A9%E4%B8%8D%E6%87%82%E7%BC%96%E7%A8%8B%E7%9A%84%E4%BA%BA%E7%88%B1%E4%B8%8AiPhone%E5%BC%80%E5%8F%91(iOS-7%EF%BC%89/%E7%B3%BB%E5%88%972/%E4%BB%A3%E7%A0%81/iOS%20%E5%85%A5%E9%97%A8%202/cha16/Checklists/ChecklistsAppDelegate.m0000000000000000^3671"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistsAppDelegate.o Checklists/ChecklistsAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/DerivedSources/armv7 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Checklists-Prefix-dkwbnpzfgyaqwbcwpvniupcqwavy/Checklists-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistsAppDelegate.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistsAppDelegate.dia -c /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/C36"F7595DA2-43D0-4988-AA5B-999933B87D37-
+b5DD28AFE-C925-4ECE-9188-C52D56BD25DE
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ItemDetailViewController.o /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/ItemDetailViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422899493.720260
+e422899493.835579
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ItemDetailViewController.o
+x/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ItemDetailViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ItemDetailViewController.m
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ItemDetailViewController.h
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ChecklistItem.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"Compile /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ItemDetailViewController.m276"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ItemDetailViewController.o Checklists/ItemDetailViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilera67cb825ef34b941^c4e8d525ef34b941^---0#0#1#-19%DVTDocumentLocation2@266"file:///Users/lizhenliang/Desktop/%E8%AE%A9%E4%B8%8D%E6%87%82%E7%BC%96%E7%A8%8B%E7%9A%84%E4%BA%BA%E7%88%B1%E4%B8%8AiPhone%E5%BC%80%E5%8F%91(iOS-7%EF%BC%89/%E7%B3%BB%E5%88%972/%E4%BB%A3%E7%A0%81/iOS%20%E5%85%A5%E9%97%A8%202/cha16/Checklists/ItemDetailViewController.m0000000000000000^3689"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ItemDetailViewController.o Checklists/ItemDetailViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/DerivedSources/armv7 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Checklists-Prefix-dkwbnpzfgyaqwbcwpvniupcqwavy/Checklists-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ItemDetailViewController.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ItemDetailViewController.dia -c /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/ItemDet36"65138ADE-5359-41C7-85C3-2578B21B24F8-
+b5DD28AFE-C925-4ECE-9188-C52D56BD25DE
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ListDetailViewController.o /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/ListDetailViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422899493.610960
+e422899493.744440
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ListDetailViewController.o
+x/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ListDetailViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ListDetailViewController.m
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ListDetailViewController.h
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/Checklist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"Compile /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ListDetailViewController.m276"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ListDetailViewController.o Checklists/ListDetailViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerfe7f9c25ef34b941^938abe25ef34b941^---0#0#1#-19%DVTDocumentLocation2@266"file:///Users/lizhenliang/Desktop/%E8%AE%A9%E4%B8%8D%E6%87%82%E7%BC%96%E7%A8%8B%E7%9A%84%E4%BA%BA%E7%88%B1%E4%B8%8AiPhone%E5%BC%80%E5%8F%91(iOS-7%EF%BC%89/%E7%B3%BB%E5%88%972/%E4%BB%A3%E7%A0%81/iOS%20%E5%85%A5%E9%97%A8%202/cha16/Checklists/ListDetailViewController.m0000000000000000^3689"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ListDetailViewController.o Checklists/ListDetailViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/DerivedSources/armv7 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Checklists-Prefix-dkwbnpzfgyaqwbcwpvniupcqwavy/Checklists-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ListDetailViewController.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ListDetailViewController.dia -c /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/ListDet36"45882719-B56F-45C6-BD06-6FA6DD0B9D0B-
+b5DD28AFE-C925-4ECE-9188-C52D56BD25DE
+
+CCompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/main.o /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422899493.609523
+e422899493.678059
+r1
+xCompileC
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/main.o
+x/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/main.m
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/ChecklistsAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Compile /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/main.m236"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/main.o Checklists/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerb3249c25ef34b941^8995ad25ef34b941^---0#0#1#-19%DVTDocumentLocation2@246"file:///Users/lizhenliang/Desktop/%E8%AE%A9%E4%B8%8D%E6%87%82%E7%BC%96%E7%A8%8B%E7%9A%84%E4%BA%BA%E7%88%B1%E4%B8%8AiPhone%E5%BC%80%E5%8F%91(iOS-7%EF%BC%89/%E7%B3%BB%E5%88%972/%E4%BB%A3%E7%A0%81/iOS%20%E5%85%A5%E9%97%A8%202/cha16/Checklists/main.m0000000000000000^3569"CompileC /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/main.o Checklists/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/DerivedSources/armv7 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos -include /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Checklists-Prefix-dkwbnpzfgyaqwbcwpvniupcqwavy/Checklists-Prefix.pch -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/main.dia -c /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码36"212300B6-14E7-4E89-B0A7-EF412D836D54-
+b5DD28AFE-C925-4ECE-9188-C52D56BD25DE
+
+CCompileStoryboard /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/Base.lproj/Main.storyboard
+s422899493.997127
+e422899494.693972
+r1
+xCompileStoryboard
+x/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/Base.lproj/Main.storyboard
+o2014-05-28 00:04:54.399 Interface Builder Cocoa Touch Tool[6485:303] CFPreferences: user home directory at file:///Users/lizhenliang/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"CompileStoryboard Checklists/Base.lproj/Main.storyboard55"CompileStoryboard Checklists/Base.lproj/Main.storyboard6057ff25ef34b941^8ba8b126ef34b941^-235"2014-05-28 00:04:54.399 Interface Builder Cocoa Touch Tool[6485:303] CFPreferences: user home directory at file:///Users/lizhenliang/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@266"file:///Users/lizhenliang/Desktop/%E8%AE%A9%E4%B8%8D%E6%87%82%E7%BC%96%E7%A8%8B%E7%9A%84%E4%BA%BA%E7%88%B1%E4%B8%8AiPhone%E5%BC%80%E5%8F%91(iOS-7%EF%BC%89/%E7%B3%BB%E5%88%972/%E4%BB%A3%E7%A0%81/iOS%20%E5%85%A5%E9%97%A8%202/cha16/Checklists/Base.lproj/Main.storyboard0000000000000000^940"CompileStoryboard Checklists/Base.lproj/Main.storyboard    cd "/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16"    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/Base.lproj/Main.storyboardc /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/Base.lproj/Main.storyboard36"11DF00FE-A42F-4CEC-ACC4-A351167A5246-
+b5DD28AFE-C925-4ECE-9188-C52D56BD25DE
+
+CCopyStringsFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/en.lproj/InfoPlist.strings Checklists/en.lproj/InfoPlist.strings
+s422899493.996981
+e422899493.998121
+r1
+xCopyStringsFile
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/en.lproj/InfoPlist.strings
+xChecklists/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy Checklists/en.lproj/InfoPlist.strings169"CopyStringsFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/en.lproj/InfoPlist.strings Checklists/en.lproj/InfoPlist.strings024aff25ef34b941^fd84ff25ef34b941^---0#0#1#-19%DVTDocumentLocation2@266"file:///Users/lizhenliang/Desktop/%E8%AE%A9%E4%B8%8D%E6%87%82%E7%BC%96%E7%A8%8B%E7%9A%84%E4%BA%BA%E7%88%B1%E4%B8%8AiPhone%E5%BC%80%E5%8F%91(iOS-7%EF%BC%89/%E7%B3%BB%E5%88%972/%E4%BB%A3%E7%A0%81/iOS%20%E5%85%A5%E9%97%A8%202/cha16/Checklists/en.lproj/InfoPlist.strings0000000000000000^706"CopyStringsFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/en.lproj/InfoPlist.strings Checklists/en.lproj/InfoPlist.strings    cd "/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/en.lproj -- Checklists/en.lproj/InfoPlist.strings36"776A98AD-DF26-4832-ADF3-A2DE89CE947F-
+b5DD28AFE-C925-4ECE-9188-C52D56BD25DE
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/ResourceRules.plist
+s422899492.901578
+e422899492.904504
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/ResourceRules.plist241"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/ResourceRules.plist86e2e624ef34b941^b58de724ef34b941^---0#0#1#-19%DVTDocumentLocation2@139"file:///Users/lizhenliang/Desktop/ios/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/Build/Products/Debug-iphoneos/Checklists.app/ResourceRules.plist00344c89dfffdf42^872"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/ResourceRules.plist    cd "/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app36"35810E77-373B-43E3-B70E-864AA9973893-
+b5DD28AFE-C925-4ECE-9188-C52D56BD25DE
+
+CGenerateDSYMFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app.dSYM /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/Checklists
+s422899494.790599
+e422899494.809170
+r1
+xGenerateDSYMFile
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app.dSYM
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/Checklists
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Generate /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app.dSYM210"GenerateDSYMFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app.dSYM /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/Checklists0471ca26ef34b941^8d26cf26ef34b941^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/lizhenliang/Desktop/ios/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/Build/Products/Debug-iphoneos/Checklists.app.dSYM00344c89dfffdf42^815"GenerateDSYMFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app.dSYM /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/Checklists    cd "/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/Checklists -o /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app.dSYM36"F2C3C8DF-253A-42D1-B5E7-BAD65966B378-
+b5DD28AFE-C925-4ECE-9188-C52D56BD25DE
+
+CLd /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/Checklists normal armv7
+s422899493.836742
+e422899493.996246
+r1
+xLd
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/Checklists
+xnormal
+xarmv7
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/Checklists.LinkFileList
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/main.o
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistsAppDelegate.o
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/AllListsViewController.o
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ListDetailViewController.o
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistViewController.o
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ItemDetailViewController.o
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/ChecklistItem.o
+d/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/Checklist.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Link /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/Checklists115"Ld /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/Checklists normal armv7508ed625ef34b941^7c0bff25ef34b941^---0#0#1#--1358"Ld /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/Checklists normal armv7    cd "/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16"    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos -filelist /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/Checklists.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Objects-normal/armv7/Checklists_dependency_info.dat -o /Users/lizhenlia36"A7772B9F-1D0D-4823-8FDD-6C08402F958A-
+b5DD28AFE-C925-4ECE-9188-C52D56BD25DE
+
+CProcessInfoPlistFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/Info.plist /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/Checklists-Info.plist
+s422899494.788557
+e422899494.790112
+r1
+xProcessInfoPlistFile
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/Info.plist
+x/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/Checklists-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection150"Process /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/Checklists-Info.plist153"ProcessInfoPlistFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/Info.plist Checklists/Checklists-Info.plist79eac926ef34b941^9d46ca26ef34b941^---0#0#1#-19%DVTDocumentLocation2@261"file:///Users/lizhenliang/Desktop/%E8%AE%A9%E4%B8%8D%E6%87%82%E7%BC%96%E7%A8%8B%E7%9A%84%E4%BA%BA%E7%88%B1%E4%B8%8AiPhone%E5%BC%80%E5%8F%91(iOS-7%EF%BC%89/%E7%B3%BB%E5%88%972/%E4%BB%A3%E7%A0%81/iOS%20%E5%85%A5%E9%97%A8%202/cha16/Checklists/Checklists-Info.plist0000000000000000^1088"ProcessInfoPlistFile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/Info.plist Checklists/Checklists-Info.plist    cd "/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/Checklists-Info.plist -genpkginfo /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/ResourceRules.plist -additionalcontentfile /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/assetcatalog_generated_in36"D7018A82-C415-4305-957B-F2A0E6117917-
+b5DD28AFE-C925-4ECE-9188-C52D56BD25DE
+
+CProcessPCH /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Checklists-Prefix-dkwbnpzfgyaqwbcwpvniupcqwavy/Checklists-Prefix.pch.pch Checklists/Checklists-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422899492.905279
+e422899493.608941
+r1
+xProcessPCH
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Checklists-Prefix-dkwbnpzfgyaqwbcwpvniupcqwavy/Checklists-Prefix.pch.pch
+xChecklists/Checklists-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16/Checklists/Checklists-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile Checklists/Checklists-Prefix.pch268"ProcessPCH /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Checklists-Prefix-dkwbnpzfgyaqwbcwpvniupcqwavy/Checklists-Prefix.pch.pch Checklists/Checklists-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler5c02e824ef34b941^26e49b25ef34b941^---0#0#1#-19%DVTDocumentLocation2@261"file:///Users/lizhenliang/Desktop/%E8%AE%A9%E4%B8%8D%E6%87%82%E7%BC%96%E7%A8%8B%E7%9A%84%E4%BA%BA%E7%88%B1%E4%B8%8AiPhone%E5%BC%80%E5%8F%91(iOS-7%EF%BC%89/%E7%B3%BB%E5%88%972/%E4%BB%A3%E7%A0%81/iOS%20%E5%85%A5%E9%97%A8%202/cha16/Checklists/Checklists-Prefix.pch0000000000000000^3511"ProcessPCH /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Checklists-Prefix-dkwbnpzfgyaqwbcwpvniupcqwavy/Checklists-Prefix.pch.pch Checklists/Checklists-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/lizhenliang/Desktop/ios/内存管理/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-generated-files.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-own-target-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-all-target-headers.hmap -iquote /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists-project-headers.hmap -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/DerivedSources/armv7 -I/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/DerivedSources -F/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Checklists-Prefix-dkwbnpzfgyaqwbcwpvniupcqwavy/Checklists-Prefix.pch.dia -MMD -MT dependencies -MF /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/PrecompiledHeaders/Checklists-Prefix-dkwbnpzfgyaqwbcwpvniupcqwavy/Checklists-Prefix.pch.d -c /Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS\ 入门\ 2/cha16/Checklists/Check36"2B045664-3B72-4C00-88AA-0E3ADC5DD5F2-
+b5DD28AFE-C925-4ECE-9188-C52D56BD25DE
+
+CProcessPCH /Users/lizhenliang/Desktop/ios/内存管理/Checklists-eljzhlwzrnlbfdfvxuzaekzvfjdv/Index/PrecompiledHeaders/Checklists-Prefix-ghkaworlfujgsgfywpobqtpwukgv_ast/Checklists-Prefix.pch.pch Checklists/Checklists-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists.xcent
+s422899494.811434
+e422899494.812359
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection274"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists.xcent274"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists.xcent11c6cf26ef34b941^66f8cf26ef34b941^---0#0#1#-19%DVTDocumentLocation2@160"file:///Users/lizhenliang/Desktop/ios/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists.xcent00344c89dfffdf42^898"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists.xcent    cd "/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/lizhenliang/Desktop/ios/内存管理/Build/Intermediates/Checklists.build/Debug-iphoneos/Checklists.build/Checklists.xcent36"D64690B3-BF43-4F2C-92B9-5A5548C438BD-
+b5DD28AFE-C925-4ECE-9188-C52D56BD25DE
+
+CProcessProductPackaging /Users/lizhenliang/Library/MobileDevice/Provisioning\ Profiles/40A23946-638C-4A96-BC09-7B97DE041FF7.mobileprovision /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/embedded.mobileprovision
+s422899494.809585
+e422899494.810765
+r1
+xProcessProductPackaging
+x/Users/lizhenliang/Library/MobileDevice/Provisioning Profiles/40A23946-638C-4A96-BC09-7B97DE041FF7.mobileprovision
+x/Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection253"ProcessProductPackaging /Users/lizhenliang/Library/MobileDevice/Provisioning\ Profiles/40A23946-638C-4A96-BC09-7B97DE041FF7.mobileprovision /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/embedded.mobileprovision253"ProcessProductPackaging /Users/lizhenliang/Library/MobileDevice/Provisioning\ Profiles/40A23946-638C-4A96-BC09-7B97DE041FF7.mobileprovision /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/embedded.mobileprovisiona54bcf26ef34b941^7a8fcf26ef34b941^---0#0#1#-19%DVTDocumentLocation2@144"file:///Users/lizhenliang/Desktop/ios/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/Build/Products/Debug-iphoneos/Checklists.app/embedded.mobileprovision00344c89dfffdf42^830"ProcessProductPackaging /Users/lizhenliang/Library/MobileDevice/Provisioning\ Profiles/40A23946-638C-4A96-BC09-7B97DE041FF7.mobileprovision /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/embedded.mobileprovision    cd "/Users/lizhenliang/Desktop/让不懂编程的人爱上iPhone开发(iOS-7）/系列2/代码/iOS 入门 2/cha16"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Users/lizhenliang/Library/MobileDevice/Provisioning\ Profiles/40A23946-638C-4A96-BC09-7B97DE041FF7.mobileprovision -o /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app/embedded.mobileprovision36"A37D7940-64B6-4C39-A8AF-D9354DF3BCFA-
+b5DD28AFE-C925-4ECE-9188-C52D56BD25DE
+
+CTouch /Users/lizhenliang/Desktop/ios/内存管理/Build/Products/Debug-iphoneos/Checklists.app
+r0
+
